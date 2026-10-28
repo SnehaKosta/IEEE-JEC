@@ -1,0 +1,23 @@
+*.pyc
+__pycache__/
+db.sqlite3
+staticfiles/
+.venv/
+node_modules/
+dist/
+.env
+
+#IDE & EDITOR FILES 
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Other environment files
+.env.local
+.env.*.local
+
+#Logs
+*.log
